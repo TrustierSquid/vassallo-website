@@ -1,0 +1,26 @@
+[
+    {
+        "name": "samuel",
+        "age": 19,
+        "school": "Eastern Michigan"
+    },
+
+    {
+        "name": "caleb",
+        "age": 13,
+        "school": "Western Michigan"
+    },
+
+    {
+        "name": "jonathan",
+        "age": 17,
+        "school": "Central Michigan"
+    },
+
+    {
+        "name": "ezreal",
+        "age": 20,
+        "school": "Eastern Michigan"
+    }
+
+]
